@@ -1,1 +1,1 @@
-p
+print("Let's start trying!")
