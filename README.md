@@ -1,2 +1,2 @@
 I want to understand how Github works
-first step is creating privat key 
+first step is creating private key 
